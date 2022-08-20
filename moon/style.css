@@ -13,9 +13,9 @@
 
 .plane {
     position: absolute;
-    bottom: 249px;
-    left: 179px;
-    width: 49px;
+    bottom: 250px;
+    left: 180px;
+    width: 60px;
     transition: transform 3s ease-in-out;
     transition-delay: 2s;
 }
