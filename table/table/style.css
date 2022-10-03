@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(199, 247, 255);
+    background-color: rgb(145, 234, 249);
 }
 
 .under {
@@ -29,14 +29,14 @@ a:hover {
 }
 
 a:active {
-    color: grey;
+    color: rgb(180, 180, 180);
 }
 
 .links {
     display: inline-block;
     background-color: white;
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
     border: solid 2px;
 }
 
@@ -45,7 +45,7 @@ a:active {
     padding: 15px;
     border-radius: 15px;
     display: inline-block;
-    border: solid 1px;
+    border: solid 5px;
 }
 
 .articles {
